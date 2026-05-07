@@ -1,0 +1,15 @@
+D:\ISMT\Programming\IntroToProg\first\Calc\bin\Debug\net8.0\Calc.exe
+D:\ISMT\Programming\IntroToProg\first\Calc\bin\Debug\net8.0\Calc.deps.json
+D:\ISMT\Programming\IntroToProg\first\Calc\bin\Debug\net8.0\Calc.runtimeconfig.json
+D:\ISMT\Programming\IntroToProg\first\Calc\bin\Debug\net8.0\Calc.dll
+D:\ISMT\Programming\IntroToProg\first\Calc\bin\Debug\net8.0\Calc.pdb
+D:\ISMT\Programming\IntroToProg\first\Calc\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISMT\Programming\IntroToProg\first\Calc\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+D:\ISMT\Programming\IntroToProg\first\Calc\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+D:\ISMT\Programming\IntroToProg\first\Calc\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+D:\ISMT\Programming\IntroToProg\first\Calc\obj\Debug\net8.0\Calc.sourcelink.json
+D:\ISMT\Programming\IntroToProg\first\Calc\obj\Debug\net8.0\Calc.dll
+D:\ISMT\Programming\IntroToProg\first\Calc\obj\Debug\net8.0\refint\Calc.dll
+D:\ISMT\Programming\IntroToProg\first\Calc\obj\Debug\net8.0\Calc.pdb
+D:\ISMT\Programming\IntroToProg\first\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+D:\ISMT\Programming\IntroToProg\first\Calc\obj\Debug\net8.0\ref\Calc.dll
